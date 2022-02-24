@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of the Quakers despising the holy scriptures As appears in their preachers printed books, as follows; collected in the fear of the Lord, for no other end, but to move the Quakers to get all their errors retracted, and to caution all others against them.</title>
+            <author>Mather, W. (William), fl. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50262</idno>
+            <idno type="STC">Wing M1285B</idno>
+            <idno type="STC">ESTC R217892</idno>
+            <idno type="EEBO-CITATION">99829535</idno>
+            <idno type="PROQUEST">99829535</idno>
+            <idno type="VID">33975</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33975)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1871:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of the Quakers despising the holy scriptures As appears in their preachers printed books, as follows; collected in the fear of the Lord, for no other end, but to move the Quakers to get all their errors retracted, and to caution all others against them.</title>
+                  <author>Mather, W. (William), fl. 1695.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>reprinted for B. Aylmer, at the Three Pidgeons in Cornhill, and C. Brome, at the Gun, at the West End of St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: W. Mather (of Bedford) who was a Quaker above forty years, but is now returned to Christianity.</note>
+                  <note>With verse and woodcut illustration at head: "Come, and behold (a thing most true,) ..</note>
+                  <note>At head: The third edition corrected with some additions.</note>
+                  <note>Reproduction of the original in the Christ Church Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:33975:1"/>
+            <l>Come, and behold (a thing moſt true,)</l>
+            <l>The <hi>Quakers,</hi> how they do purſue;</l>
+            <l>With Daggers Points, GOD's holy Word,</l>
+            <l>It to deſtroy, with one Accord.</l>
+            <l>Lo! how it breaks their Daggers keen,</l>
+            <l>And makes thoſe <hi>Monſters</hi> to be ſeen.</l>
+            <l>
+               <hi>True and Righteous are THY Judgments</hi>
+            </l>
+            <l>LORD GOD ALMIGHTY,</l>
+            <l>
+               <figure>
+                  <figDesc>bible pierced by swords</figDesc>
+               </figure>
+            </l>
+            <l>Who will not Fear THEE, and</l>
+            <l>Reverence THY WORD?</l>
+         </div>
+         <div type="edition_statement">
+            <p>
+               <hi>The Third Edition Corrected with ſome Additions.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <p>This Note is (in this Impreſſion) here placed, and added at the Requeſt of Mr. <hi>John Pennyman</hi>; who (in his pri<g ref="char:EOLhyphen"/>vate Faſt, <hi>Jan.</hi> 30. 1650.) was conver<g ref="char:EOLhyphen"/>ted from his vain Converſation [only and <hi>Alone</hi>] by reading of the Scriptures, which may be ſeen more at large in the Book of his Life, p. 2, 3, 4.</p>
+         </div>
+         <div type="treatise">
+            <head>
+               <hi>Of the Quakers Deſpiſing the Holy Scriptures.</hi> As appears in their Preachers printed BOOKS, as follows; Collected in the fear of the LORD, for no other end, but to move the QUAKERS to get all their Errors retracted, and to Caution all others againſt them.</head>
+            <p>BY calling the Scriptures, the <hi>Rule,</hi> and the <hi>Word,</hi> (ſays <hi>George Fox</hi> their firſt and great Apoſtle) have all Men run into their Senſes, into Confuſion: <note n="1" place="margin">
+                  <hi>G. Fox</hi>'s <hi>Gr. Myſt. p.</hi> 18.68.75.246.302.</note>. IT's Blaſphemy to ſay the <hi>Letter</hi> is the <hi>Word of God,</hi> it is the Devil that contends for the Scriptures, to be <hi>the Word of God.</hi> 
+               <note n="2" place="margin">G. Fox Myſt. p. <hi>246.</hi> Lawſon<hi>'s</hi> untaught Teacher, p. <hi>2.</hi>
+               </note>. IN NO SENSE, can the Scriptures properly be called <hi>The Word of God</hi>: <note n="3" place="margin">
+                  <hi>J. Naylor</hi>'s Anſw. to the <hi>Jews, p</hi> 22.25.</note>.</p>
+            <p>TO ſay that the Scriptures is the <hi>Word</hi> of <hi>Truth</hi> is a Lye. <note n="4" place="margin">John Whitehead<hi>'s and</hi> R. Ruckhill<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Qua<g ref="char:EOLhyphen"/>ker Refuge, p. <hi>17.</hi>
+               </note>.</p>
+            <p>THEY are blind Sots, and evil Beaſts, that ſay the Scriptures are the <hi>Written Word of God.</hi> And that thou calleſt the Word (in the Scripture) which is Death and killeth, <hi>&amp;c.</hi> GOD does not ſpeak in the Scripture. LET ſhame cover the Faces of thoſe rotten filthy Dreamers, that ſay the <hi>Scriptures</hi> are a <hi>Means</hi> whereby Faith is wrought: <note n="5" place="margin">
+                  <hi>G. Whitehead,</hi> &amp;c. <hi>Iſhmael,</hi> &amp;c. <hi>p.</hi> 12. &amp;c.</note>. HOW can, or dare any to ſay without the higheſt Blaſphemy, that the Scripture is the Word of GOD? <note n="6" place="margin">Geo. Biſhop<hi>'s</hi> Mene Tekel, p. <hi>22.</hi>
+               </note>.</p>
+            <p>WE Quakers meet not to read the Scriptures, <note n="7" place="margin">R. Barclay<hi>'s</hi> Works p. <hi>12.</hi>
+               </note>. FOR they are imperfect Copies, <note n="8" place="margin">W. Penn<hi>'s</hi> Invali<g ref="char:EOLhyphen"/>dity of J. Faldo<hi>'s</hi> Vindi<g ref="char:EOLhyphen"/>cation, p. <hi>77.</hi>
+               </note>. WHICH Tranſcriptions and Tranſlations were they never ſo certain, and entirely anſwering to their firſt original Copies, yet are not capable to be (to all Men) any other than a <hi>Lesbian Rule, or a Noſe</hi> of Wax. <note n="9" place="margin">Samuel Fiſher<hi>'s</hi> Works, p. <hi>752.</hi>
+               </note>. THE Scriptures not the Saints Rule. <note n="10" place="margin">Idem p. <hi>460.</hi> W. Penn<hi>'s</hi> Inv. p. <hi>69.</hi>
+               </note>.</p>
+            <p>WHETHER <hi>Moſes,</hi> or <hi>Hermes,</hi> was the firſt Pen-man of them, and whether both theſe are not one, or whether there are not many words contained in the Scriptures, which were not ſpoken by Inſpiration of the Holy Ghoſt; whether ſome Words were not ſpoken by the <hi>Grand Impoſtor,</hi> ſome by wicked Men, ſome by wiſe Men ill applied, ſome by good Men ill expreſſed, ſome by falſe Prophets, and yet true, ſome by true Prophets and yet falſe. <note n="11" place="margin">John Whitehead, &amp;c. <hi>above</hi> p. <hi>17.</hi>
+               </note>.</p>
+            <p>Qr. HOW it may be known aſſuredly, uncontrolably, and in<g ref="char:EOLhyphen"/>fallibly, that the Scripture is at all of GOD, and not a cunning deviſed Fable and Invention of Men, <note n="12" place="margin">S. Fiſher<hi>'s</hi> Addit. Append. p. <hi>21.</hi>
+               </note>. YET the Scriptures are much like the ſhadow of the true rule, <note n="13" place="margin">W. Penn<hi>'s</hi> Spirit of Truth vin. p. <hi>38.</hi>
+               </note>. BEING Parables to all the World, but are no Parable to us Quakers.<note n="14" place="margin">Ja. Parnel<hi>'s</hi> Shield of Truth, p. <hi>10.</hi> &amp;c.</note> FOR not a Jot, or Tittle of them, can be underſtood without <hi>Immediate Revelation.</hi> 
+               <note n="15" place="margin">W. Penn<hi>'s</hi> Inval. p. <hi>43.47.</hi>
+               </note>.</p>
+            <p>IT was not a Bible, but Chriſt, that the Saints Preached to bring People to Repentance. <note n="16" place="margin">Truth vindicated by John Petman <hi>and</hi> Jaſper Bat, p. <hi>45.</hi>
+               </note>.</p>
+            <p>HE that ſaith the <hi>Letter</hi> is <hi>Light,</hi> is in <hi>Darkneſs,</hi> and Blindneſs, and is a Deceiver, ſeeking the Living among the Dead: <note n="17" place="margin">James Parnel<hi>'s</hi> Shield, &amp;c. p. <hi>10.</hi> &amp;c.</note>.</p>
+            <p>THE curſed Serpent is in the <hi>Letter,</hi>
+               <note n="*" place="margin">Geo. Fox<hi>'s</hi> Truth Def. p. <hi>102.</hi>
+               </note> which is Earthly, and Carnal, Death, Beaſtly Ware, Ink, and Paper; ſo Duſt is the Serpents Meat, their original is Duſt, <hi>Hebrew, Greek,</hi> and <hi>Latin,</hi> which is the <hi>Letter.</hi> So theſe Serpents feed upon Duſt, which feed upon theſe carnal Things, and their <hi>Goſpel</hi> is Duſt, <hi>Matthew, Mark, Luke,</hi> and <hi>John,</hi> which is the Letter which killeth: <note n="18" place="margin">G. Fox. Saul<hi>'s</hi> Er<g ref="char:EOLhyphen"/>rand, p. <hi>7. and</hi> his News out of the North, p. <hi>14. and</hi> his Truth Def. p. <hi>14.45, 102.</hi>
+               </note>. SO that Faith in the Hiſtory of Chriſt's outward Manifeſtation, has been a deadly Poyſon, theſe latter Ages has been infected with: <note n="19" place="margin">W. Penn<hi>'s</hi> Quake<g ref="char:EOLhyphen"/>riſm a new nick Name, &amp;c. p. <hi>6.</hi> &amp;c.</note>.</p>
+            <p>THE Scriptures are the attire of the Whore, or falſe Church, which brings none to know God, and Chriſt. <note n="20" place="margin">Fran. Howgil<hi>'s</hi> Works, p. <hi>211.</hi> and S. Criſp<hi>'s</hi> Prim. p. <hi>23.</hi>
+               </note>. BUT the Goſpel, that we [Quakers] Preach, we neither received of Man nor from Man, but by <hi>Immediate Revelation:</hi> 
+               <note n="21" place="margin">R. Barckley<hi>'s</hi> Works, p. <hi>13.</hi>
+               </note>. WE are taught of Gods Spirit immediately without <hi>Means, Tool,</hi> or <hi>Inſtrument:</hi> 
+               <note n="22" place="margin">L. Richardſon to Bennet, p. <hi>42.</hi> printed <hi>1664. and</hi> Step. Criſp<hi>'s</hi> Sermons, p. <hi>13. 1694.</hi>
+               </note>. THE Law written in our Hearts, which to us is an <hi>Abſolute Rule</hi>: <note n="23" place="margin">Truth vind. <hi>by</hi> J. Petman &amp;c. <hi>
+                     <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>bove</hi> p. <hi>45.</hi>
+               </note>. Therefore we are not to obey any Command in Scripture before the Spirit in us, [not our own Spirits] firſt move thereto, no not to Prayer, and giving God Thanks, with our Hats off, before Dinner or Family Prayer, or catechizing Children or Servants: <note n="24" place="margin">Ed. Burrough<hi>'s</hi> Works, p. <hi>47.</hi> Iſ. Pening<g ref="char:EOLhyphen"/>ton's <hi>Exam.</hi> p. <hi>81.</hi> John Petm. &amp;c. <hi>above,</hi> p. <hi>31.</hi>
+               </note>.</p>
+            <p>FOR the Scriptures are not the Saints Rule, of knowing God, and liv<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng unto him: <note n="25" place="margin">Chriſt. Atkinſon, Sword of the Lord drawn, &amp;c. p. <hi>2.</hi>
+               </note>. THE Spirit is our <hi>only</hi> and <hi>alone</hi> Rule: <note n="26" place="margin">Ed. Burrough ever<g ref="char:EOLhyphen"/>laſting Goſpel, p. <hi>47.18.</hi>
+               </note>. OF Faith, Guide of Life, and Judge of Controverſies: <note n="27" place="margin">W. Penn<hi>'s</hi> Inv. p. <hi>69.</hi> &amp;c.</note>. NOTHING elſe muſt teach (in our Meetings) nothing elſe judge, <hi>&amp;c.</hi> Not to truſt <hi>Paul,</hi> nor <hi>Peter,</hi> who err'd, but the Spirit cannot err: <note n="28" place="margin">Iſ. Penington Ex<g ref="char:EOLhyphen"/>amin. p. <hi>85.</hi>
+               </note>. THE which infallible Spirit, or Light, that every Man hath, being turned to it, will (without the Scriptures) lead all Men out of Deluſion: <note n="29" place="margin">G. Fox Myſt p. <hi>168</hi>
+               </note>. AND we affirm, that our giving forth Papers, or printed Books, it is from the <hi>Immediate Eternal Spirit</hi> of God: <note n="30" place="margin">G. Fox, <hi>and</hi> R. Hubberthorn<hi>'s</hi> Truth defen. p. <hi>104.</hi>
+               </note>. SO that what is ſpoken from the Spirit of Truth, in any, is of as great Authority, as the Scriptures, and Chapters are, and GREATER: <note n="31" place="margin">W. Penn, <hi>and</hi> G. Whitehead<hi>'s</hi> Serious Apology, p. <hi>49.</hi> G. W. Truth Def. p. <hi>7.</hi>
+               </note>.</p>
+            <p>WHICH Spirit, is the Light that every Man is born with: <note n="32" place="margin">G. Fox Myſt. p. <hi>20. 209.</hi>
+               </note>. AND this Light we take to be the Grace of God, which taught Chriſt's Apoſtles to deny Ungodlineſs, <hi>Tit</hi> 2. 11. (Becauſe our learned Preacher <hi>W. Penn,</hi> ſays,) there is no Natural Light in Man, and that it's Natural to Man to have a Supernatural Light. <note n="33" place="margin">W. Penn<hi>'s</hi> Primi<g ref="char:EOLhyphen"/>tive Chriſtianity, p. <hi>15.30.</hi>
+               </note>. AND tho our Oppoſers ſay, that the Light we were born with, is only ſome natural Reaſon, or Underſtanding common to all Men, both <hi>Jews</hi> and <hi>Gentiles,</hi> yet we believe them not, for we hold it ſufficient, (if obeyed) to Salvation without any thing elſe. <note n="34" place="margin">G. Whitehead<hi>'s</hi> Antidote, p. <hi>28.</hi> He<g ref="char:EOLhyphen"/>reſie and Hatred by G. K. p. <hi>1.</hi>
+               </note>. AND tho our Oppoſers blame us for denying the Scriptures to be our Rule, yet we make uſe of the Scriptures to anſwer them, not that we make them our Rule, and Touchſtone inſtead of the Spirit: <note n="35" place="margin">Geo. Whitehead<hi>'s</hi> Apoſtate Incend. p. <hi>14.</hi>
+               </note>.</p>
+            <p>AND now our Oppoſers have found that our printed Books agree not with the Scriptures, we tell them [A. Lie] <hi>viz.</hi> That we have always readily offered, and ſubmitted our Words and Wri<g ref="char:EOLhyphen"/>tings to the Teſtimony of H. Scripture. <note n="36" place="margin">G. Whitehead<hi>'s</hi> Switch, p. <hi>229.</hi>
+               </note>. YET we would not meet <note n="*" place="margin">See. <hi>G. Keith</hi>'s Four Narratives.</note> 
+               <hi>G. K.</hi> in publick theſe Four Years, becauſe he ſaith he will prove us fal<g ref="char:EOLhyphen"/>lible Men, which we, cannot bear, though we grant that <hi>Samuel, Elijah, Eliſha,</hi> and others, had failings, but what is that to us. <note n="37" place="margin">Geo. Whitehead<hi>'s</hi> Switch, p. <hi>497.</hi>
+               </note>. FOR we can now, otherwiſe word the Matter, tho our Intentions be the ſame, as we have done in our new Confeſſions of Faith; but our Oppoſers think we are not ſincere, while we cloak the Errors in our Books. <note n="38" place="margin">Geo. Whitehead<hi>'s</hi> counterfeit Convert. p. <hi>72.</hi>
+               </note>.</p>
+            <p>AND our Oppoſers ſee, that our new Creeds are quite contrary to our ancient Books, and continue blaming us, when we tell them (<hi>viz.</hi>) our Principles are now no other than what they were, when we were firſt a People. <note n="39" place="margin">
+                  <hi>Joſeph Wyeth</hi>'s <hi>Primitive Chriſtiani<g ref="char:EOLhyphen"/>ty,</hi> with other Books of their Hereſies that might be mentioned</note>. THUS their Preachers can keep none in Igno<g ref="char:EOLhyphen"/>rance except their Hearers.</p>
+            <p>
+               <hi>Objection,</hi> If any ſay, this Man has not given full Quotations out of our Books, though he may have given the Senſe of them.</p>
+            <p>
+               <hi>Anſwer,</hi> My deſigned Method, (ſays <hi>W. Penn</hi>) is not the common Road of printing my Adverſaries Words at large, on all Occaſions, <hi>&amp;c.</hi>
+               <note place="margin">Serious Apol. p. <hi>79.</hi>
+               </note>
+            </p>
+            <p>☞ Note, that whereas the Quakers finding that Chriſt is called <hi>the word of</hi> GOD in Scripture, therefore they will not allow the Holy Scriptures to be called <hi>the Word of</hi> GOD, nor the Sermons truly preached from it; though the Quakers frequently called their own Writings, <hi>The word of</hi> GOD, and <hi>the word of the</hi> LORD.<note n="†" place="margin">G. Fox Vials of Wrath, &amp;c. p. <hi>7.1654</hi> p. <hi>9. and</hi> p. <hi>12.</hi> and in The way to the King<g ref="char:EOLhyphen"/>dom, <hi>printed 1655.</hi> p. <hi>14. and in his ſe<g ref="char:EOLhyphen"/>veral Papers,</hi> &amp;c. p. <hi>62.</hi>
+               </note> Then</p>
+            <p n="1">1. I ask them, how ſome of Old made <hi>the word of</hi> GOD <hi>of none effect? Mark</hi> 7. 13. They could not ſo uſe Chriſt. 2. How the <hi>Corinthians</hi> corrupted <hi>the word of</hi> GOD? 2 <hi>Cor.</hi> 2.17. 3<hi>dly.</hi> How the Devil could take <hi>the word of</hi> GOD out of Peoples Hearts? <hi>Luke</hi> 8.11.</p>
+            <p>Laſtly, I deſire ſuch Quakers as have Eyes, to ſee whither their Teachers Books agree with the Holy Scriptures or no, and let them well conſider, <hi>Matt.</hi> 6.23. <hi>If therefore the Light that is in thee, be Darkneſs, how great is that Darkneſs.</hi>
+            </p>
+            <p>W. Mather (<hi>of</hi> Bedford) <hi>who was a</hi> Quaker <hi>above Forty Years, but is now returned to Chriſtianity.</hi>
+            </p>
+            <p>The <hi>Quakers</hi> did not only write and ſpeak contemptuouſly of the Scriptures formerly, but alſo one of their Ancient Friends, <hi>viz. M. Tucker</hi> did actually and publickly burn the BIBLE againſt <hi>Breadſtreet</hi> Church: She was Servant to Mr. <hi>Rayman</hi> a Barber, who then lived in that Street, and now lives in <hi>Queenſtreet</hi> in <hi>Cheapſide,</hi> who has often teſtified the Truth of this Relation.</p>
+            <p>Note Reader, the Printed Sheet publiſhed by ſome <hi>Quakers</hi> (but without any Name) called, <hi>The great Calumny of the Quakers deſpiſing the Holy Scriptures,</hi> is throughout impudently Fallacious; firſt in charging the Quotations taken out of the <hi>Quakers</hi> Books, to be unjuſtly perverted, and con<g ref="char:EOLhyphen"/>fuſedly curtailed and crouded, which yet are moſt truly and fairly given, and repreſented (excepting ſome ſmall Errata of the Print now corrected;) 2dly, In their giving Quotations out of their own Books, curtailed on purpoſe to hide their Errors. 3dly, In paſſing by the moſt offenſive and ſcan<g ref="char:EOLhyphen"/>dalous Quotations, given out of the <hi>Quakers</hi> Books, without any reply either to juſtifie or blame them. 4thly, They ſtill deny the Scriptures to be the Word of GOD, and rule of Faith, and aſſert the <hi>Quakers</hi> Infallibility.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Reprinted for <hi>B. Aylmer,</hi> at the Three Pidgeons in <hi>Cornhill,</hi> and <hi>C. Br<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> at the Gun, at the <hi>Weſt End</hi> of St. <hi>Paul</hi>'s Church-yard. 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
